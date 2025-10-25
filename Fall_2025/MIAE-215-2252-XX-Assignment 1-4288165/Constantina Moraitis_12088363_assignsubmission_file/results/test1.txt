@@ -1,0 +1,3 @@
+aaa
+
+---input format used: single line---

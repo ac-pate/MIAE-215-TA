@@ -1,0 +1,6 @@
+aaaaa
+b   b
+ccccc
+Press Enter to exit...
+
+---input format used: single line---

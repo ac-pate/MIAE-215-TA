@@ -1,0 +1,5 @@
+aaaaa
+b   b
+ccccc
+
+---input format used: single line---
