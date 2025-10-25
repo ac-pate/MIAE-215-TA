@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "email_program.C": "cpp",
+        "sin_cos_wave.C": "cpp",
+        "q1.C": "cpp",
+        "q2.C": "cpp",
+        "q3.C": "cpp",
+        "fah.C": "cpp",
+        "q4.C": "cpp",
+        "q6.C": "cpp",
+        "q5.C": "cpp",
+        "add_two_fractions.C": "cpp",
+        "elapsed_time.C": "cpp",
+        "question1.C": "cpp",
+        "random_seed.C": "cpp",
+        "magic_square.C": "cpp",
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "cstdio": "cpp",
+        "question3.C": "cpp",
+        "mc_q2.C": "cpp"
+    }
+}

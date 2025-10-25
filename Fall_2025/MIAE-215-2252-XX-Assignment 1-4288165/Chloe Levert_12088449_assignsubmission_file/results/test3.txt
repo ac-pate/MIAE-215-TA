@@ -1,0 +1,13 @@
+aaaaaaaaaaaaaaaaaaaa
+b                  b
+c                  c
+d                  d
+e                  e
+f                  f
+g                  g
+h                  h
+i                  i
+jjjjjjjjjjjjjjjjjjjj
+Press Enter to exit...
+
+---input format used: single line---

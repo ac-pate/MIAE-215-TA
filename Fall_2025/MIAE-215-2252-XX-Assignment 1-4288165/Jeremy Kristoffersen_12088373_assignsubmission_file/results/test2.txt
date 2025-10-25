@@ -1,0 +1,3 @@
+aa
+bb
+To try different dimensions, input 1. Any other input will stop the program.	
