@@ -1,0 +1,139 @@
+=============================================================================
+ASSIGNMENT 1 - FINAL GRADING SUMMARY
+=============================================================================
+Date: October 27, 2025
+Total Students: 104
+
+=============================================================================
+FILES CREATED
+=============================================================================
+
+1. assignment1_grades_manual.csv
+   - Original grading with strict criteria
+   - Location: /home/odin/achal/MIAE-215-TA/Grading_Scripts/results/
+
+2. assignment1_grades_final.csv  ⭐ USE THIS ONE ⭐
+   - Final grading with updated criteria
+   - Location: /home/odin/achal/MIAE-215-TA/Grading_Scripts/results/
+
+3. regrade_outputs/ directory
+   - Contains test output files for all non-perfect students
+   - 22 output files for manual review
+   - Location: /home/odin/achal/MIAE-215-TA/Grading_Scripts/results/regrade_outputs/
+
+4. regrade_summary.txt
+   - Detailed breakdown of grade changes
+   - Location: /home/odin/achal/MIAE-215-TA/Grading_Scripts/results/
+
+5. INDEX.txt
+   - Quick reference for output files
+   - Location: /home/odin/achal/MIAE-215-TA/Grading_Scripts/results/regrade_outputs/
+
+=============================================================================
+GRADING CRITERIA UPDATES
+=============================================================================
+
+NEW ACCEPTABLE BEHAVIORS (per professor's requirements):
+✓ Using uppercase letters instead of lowercase
+✓ Rejecting 26+ rows as invalid input (student's design choice)
+✓ Rejecting 40+ columns as invalid input (student's design choice)
+
+STILL CONSIDERED ERRORS:
+✗ Wrong letter patterns (e.g., only using 'a' and 'b')
+✗ Wrong last row letter
+✗ Extra formatting/borders not in specification
+✗ Wrong number of output rows
+✗ Box-drawing characters instead of letters
+✗ Completely wrong program
+✗ Timeout/infinite loops
+
+=============================================================================
+FINAL GRADE DISTRIBUTION
+=============================================================================
+
+5/5 (Perfect):    91 students (87.5%) ⬆ +9 from original
+3.5/5 (Incorrect): 11 students (10.6%) ⬇ -6 from original  
+1.5/5 (Major):      2 students (1.9%) ⬇ -3 from original
+
+Average Grade: 4.78 out of 5 (95.6%)
+
+=============================================================================
+STUDENTS UPGRADED (9 total)
+=============================================================================
+
+From 3.5 to 5 (7 students):
+1. Anas Ammar (12088411) - Validation choice
+2. Antoine Frappier-Temcheff (12088482) - Uppercase acceptable
+3. Fares Kabak (12088409) - Uppercase acceptable
+4. Jacob Casola (12088487) - Uppercase acceptable
+5. Mikha Cuhat (12088458) - Validation choice
+6. Oussayd El Cheikh (12088355) - Uppercase acceptable
+7. Zakaria Chaibat (12088426) - Validation choice
+
+From 1.5 to 5 (2 students):
+8. Jordan Burgess (12088427) - Validation choice
+9. Luca Pellegrino (12088472) - Validation choice
+
+=============================================================================
+STUDENTS STILL WITH ISSUES (13 total)
+=============================================================================
+
+At 3.5/5 (11 students with logic errors):
+• Alif Mia - Wrong letter pattern in output
+• Aline-Kim Nguyen - Extra formatting/borders
+• Chloe Levert - Limited to 26 columns incorrectly
+• Constantina Moraitis - Last row always 'a'
+• Ilas Slimani - Letters displayed horizontally
+• Liam Greene - Box-drawing characters
+• Luca Lundgren - Wrong row count
+• Mathis Nkombou-kamdoum - Only uses 'a' and 'b'
+• Sofia Romero - Last row uses 'a'
+• Talia Kaloustian - Outputs 21 rows instead of 20
+• Vladislav Captari - Spaces between letters
+
+At 1.5/5 (2 students with major issues):
+• Dilraba Tursun - Wrong program submitted
+• Tyler Hamel-Wong - Timeout on test 2
+
+=============================================================================
+TEST CASES USED
+=============================================================================
+
+Test 1: 20 rows × 10 columns
+Expected Output:
+  - Row 1: aaaaaaaaaa
+  - Rows 2-19: b through s with 8 spaces between
+  - Row 20: tttttttttt
+
+Test 2: 26 rows × 40 columns  
+Expected Output:
+  - Row 1: 40 'a's
+  - Rows 2-25: b through y with 38 spaces between
+  - Row 26: 40 'z's
+
+=============================================================================
+HOW TO USE THE OUTPUT FILES
+=============================================================================
+
+To review a specific student's output:
+cd /home/odin/achal/MIAE-215-TA/Grading_Scripts/results/regrade_outputs/
+cat {student_id}_output.txt
+
+Example:
+cat 12088429_output.txt  # Review Mathis Nkombou-kamdoum
+
+Each file shows:
+- Student name and ID
+- Complete output for Test 1 (20×10)
+- Complete output for Test 2 (26×40)
+
+=============================================================================
+NEXT STEPS
+=============================================================================
+
+1. Review output files for students with 3.5 or 1.5 if needed
+2. Use assignment1_grades_final.csv for Moodle grade entry
+3. Add brief comments in Moodle based on Comment column
+4. Update Excel spreadsheet: miae215_XX_fall_2025_formatted.xlsx
+
+=============================================================================

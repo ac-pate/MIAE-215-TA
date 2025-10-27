@@ -1,0 +1,119 @@
+=============================================================================
+ASSIGNMENT 1 RE-GRADING SUMMARY
+=============================================================================
+
+NEW GRADING CRITERIA APPLIED:
+1. Using uppercase letters instead of lowercase is now acceptable
+2. Rejecting 26+ rows or 40+ columns as invalid is now acceptable
+
+=============================================================================
+GRADE CHANGES
+=============================================================================
+
+The following students had their grades UPGRADED from 3.5 or 1.5 to 5:
+
+1. Anas Ammar (12088411): 3.5 → 5
+   Reason: Rejects 26 rows as invalid input (now acceptable)
+   
+2. Antoine Frappier-Temcheff (12088482): 3.5 → 5
+   Reason: Uses uppercase letters (now acceptable)
+   
+3. Fares Kabak (12088409): 3.5 → 5
+   Reason: Uses uppercase letters (now acceptable)
+   
+4. Jacob Casola (12088487): 3.5 → 5
+   Reason: Uses uppercase letters (now acceptable)
+   
+5. Jordan Burgess (12088427): 1.5 → 5
+   Reason: Rejects 26 rows and times out (now acceptable)
+   
+6. Luca Pellegrino (12088472): 1.5 → 5
+   Reason: Rejects 26 rows and times out (now acceptable)
+   
+7. Mikha Cuhat (12088458): 3.5 → 5
+   Reason: Rejects 40 columns as invalid input (now acceptable)
+   
+8. Oussayd El Cheikh (12088355): 3.5 → 5
+   Reason: Uses uppercase letters (now acceptable)
+   
+9. Zakaria Chaibat (12088426): 1.5 → 5
+   Reason: Rejects 40 columns and times out (now acceptable)
+
+=============================================================================
+STUDENTS WHOSE GRADES REMAINED THE SAME
+=============================================================================
+
+The following students still have reduced grades due to actual logic errors:
+
+1. Alif Mia (12088418): 3.5
+   Issue: Wrong letter pattern in test 2
+   
+2. Aline-Kim Nguyen (12088417): 3.5
+   Issue: Extra formatting/borders in output
+   
+3. Chloe Levert (12088449): 3.5
+   Issue: Limited to 26 columns max
+   
+4. Constantina Moraitis (12088363): 3.5
+   Issue: Last row always uses 'a' instead of correct letter
+   
+5. Dilraba Tursun (12088359): 1.5
+   Issue: Submitted wrong program (unit converter)
+   
+6. Ilas Slimani (12088402): 3.5
+   Issue: First and last rows show letters horizontally
+   
+7. Liam Greene (12088374): 3.5
+   Issue: Uses box-drawing characters instead of letters
+   
+8. Luca Lundgren (12088444): 3.5
+   Issue: Wrong row count and invalid characters
+   
+9. Mathis Nkombou-kamdoum (12088429): 3.5
+   Issue: Uses only 'a' and 'b' for all rows
+   
+10. Sofia Romero (12088419): 3.5
+    Issue: Last row uses 'a' instead of correct letter
+    
+11. Talia Kaloustian (12088375): 3.5
+    Issue: Outputs 21 rows instead of 20
+    
+12. Tyler Hamel-Wong (12088368): 1.5
+    Issue: Times out on test 2
+    
+13. Vladislav Captari (12088362): 3.5
+    Issue: Spaces between each letter
+
+=============================================================================
+FINAL STATISTICS
+=============================================================================
+
+ORIGINAL GRADING:
+- 5/5:   82 students (78.8%)
+- 3.5/5: 17 students (16.3%)
+- 1.5/5:  5 students (4.8%)
+
+FINAL GRADING (after re-evaluation):
+- 5/5:   91 students (87.5%)
+- 3.5/5: 11 students (10.6%)
+- 1.5/5:  2 students (1.9%)
+
+IMPROVEMENT:
+- 9 students upgraded to perfect score (5/5)
+- Average grade improved from 4.64 to 4.78 out of 5
+
+=============================================================================
+OUTPUT FILES LOCATION
+=============================================================================
+
+All re-tested student outputs are stored in:
+/home/odin/achal/MIAE-215-TA/Grading_Scripts/results/regrade_outputs/
+
+File naming: {student_id}_output.txt
+
+Each file contains:
+- Student name and ID
+- Test 1 output (20 rows × 10 columns)
+- Test 2 output (26 rows × 40 columns)
+
+=============================================================================

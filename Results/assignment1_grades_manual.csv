@@ -1,0 +1,106 @@
+Student Name,Student ID,Grade,Comment
+Abderrahmen Laadhar,12088450,5,Correct output
+Alexander Naltchadjian,12088478,5,Correct output
+Alexandra Toghoua,12088455,5,Correct output
+Alexandre Khairallah,12088376,5,Correct output
+Alexis Cohen,12088476,5,Correct output
+Ali El Rida Chaanani,12088460,5,Correct output
+Alif Mia,12088418,3.5,Test 2 incorrect output - wrong letter pattern
+Aline-Kim Nguyen,12088417,3.5,Extra formatting/borders in output
+Amelia Bertoia-Dixon,12088414,5,Correct output
+Anas Ammar,12088411,3.5,Rejects 26 rows as invalid input
+Andi Xhaxho,12088353,5,Correct output
+Anne-Sophie Couture,12088439,5,Correct output
+Anthony Gayed,12088453,5,Correct output
+Antoine Frappier-Temcheff,12088482,3.5,Uses uppercase letters instead of lowercase
+Arnaud Lalonde,12088491,5,Correct output
+Arthur Gamaghelyan,12088412,5,Correct output
+Asser Alayed,12088357,5,Correct output
+Azarine Salari,12088471,5,Correct output
+Bill Alevizos,12088422,5,Correct output
+Brandon Grijalva,12088452,5,Correct output
+Breanna DEttorre,12088358,5,Correct output
+Chloe Levert,12088449,3.5,Limited to 26 columns max - test 2 incorrect
+Constantina Moraitis,12088363,3.5,Last row uses wrong letter (always 'a')
+Dani Hissoiny,12088403,5,Correct output
+Dario Ruso,12088390,5,Correct output
+Davide Sanzari,12088445,5,Correct output
+Dilraba Tursun,12088359,1.5,Submitted wrong program (unit converter)
+Draegon Angrignon,12088416,5,Correct output
+Elijah Sabado,12088486,5,Correct output
+Emerson Racette Roussel,12088477,5,Correct output
+Fares Kabak,12088409,3.5,Uses uppercase with spaces between letters
+Faris Salman,12088490,5,Correct output
+Felipe Lazcano,12088389,5,Correct output
+Folake Agard,12088451,5,Correct output
+Gabriel Morrissette,12088392,5,Correct output
+Ghfran Awad,12088377,5,Correct output
+Guillaume Bouchard,12088384,5,Correct output
+Guillaume Sercia,12088441,5,Correct output
+Hadi Abdallah,12088360,5,Correct output
+Hadi Iqbal,12088468,5,Correct output
+Hadia Faci,12088391,5,Correct output
+Hugo Feng,12088447,5,Correct output
+Huseyin Arabaci,12088456,5,Correct output
+Ilas Slimani,12088402,3.5,First and last rows show letters horizontally
+Isaac Muyaya,12088433,5,Correct output
+Isis Mizrahi,12088432,5,Correct output
+Jacob Casola,12088487,3.5,Uses uppercase letters instead of lowercase
+Jacob Davy,12088466,5,Correct output
+Jad Sobh,12088463,5,Correct output
+Jakob Klassen,12088462,5,Correct output
+James Kenney,12088399,5,Correct output
+Jamie Robinson,12088404,5,Correct output
+Janani Thiyagarajah,12088378,5,Correct output
+Jedidiah Olubaju,12088407,5,Correct output
+Jeremy Kristoffersen,12088373,5,Correct output
+Jesus Ogose,12088361,5,Correct output
+Jordan Burgess,12088427,1.5,Rejects 26 rows and times out
+Karim Kaci,12088356,5,Correct output
+Karl Samaha,12088431,5,Correct output
+Kevin Faucher,12088469,5,Correct output
+Liam Greene,12088374,3.5,Uses box-drawing characters instead of letters
+Luca Lundgren,12088444,3.5,Wrong row count and invalid characters
+Luca Pellegrino,12088472,1.5,Rejects 26 rows and times out
+Luca Vendramin,12088421,5,Correct output
+Mathis Nkombou-kamdoum,12088429,3.5,Uses only 'a' and 'b' for all rows
+Matthias Hofstatter,12088461,5,Correct output
+Melanie Tran,12088423,5,Correct output
+Mikha Cuhat,12088458,3.5,Rejects 40 columns as invalid input
+Milo Martin,12088398,5,Correct output
+Mohamed Reda Saber,12088401,5,Correct output
+Moshe Azoulay De Courten,12088383,5,Correct output
+Nasif Siddiqi,12088484,5,Correct output
+Nathan Wan Chow Wah,12088483,5,Correct output
+Nathan Zsombor-Murray,12088479,5,Correct output
+Olivia Preiss,12088394,5,Correct output
+Omar Ouazani Chahdi,12088459,5,Correct output
+Oussayd El Cheikh,12088355,3.5,Uses uppercase letters instead of lowercase
+Prian Thangarajah,12088489,5,Correct output
+Quang Dzung Richard Nguyen,12088454,5,Correct output
+Rayan Bouguettaya,12088448,5,Correct output
+Sabih AlKukhun,12088443,5,Correct output
+Samuel-José Turcotte,12088434,5,Correct output
+Sara Awad,12088366,5,Correct output
+Sarah Mawassi,12088354,5,Correct output
+Sasha Ellis,12088396,5,Correct output
+Scarlett Niven,12088425,5,Correct output
+Seyhak Chhun,12088420,5,Correct output
+Shana Brown,12088367,5,Correct output
+Sofia Romero,12088419,3.5,Last row uses 'a' instead of correct letter
+Talia Kaloustian,12088375,3.5,Outputs 21 rows instead of 20
+Tamara Mahmood,12088387,5,Correct output
+Tony He,12088446,5,Correct output
+Tyler Hamel-Wong,12088368,1.5,Times out on test 2
+Tyler Stinson,12088397,5,Correct output
+Valera Kelid,12088385,5,Correct output
+Veniamin Taranov,12088386,5,Correct output
+Vlad Dananau,12088435,5,Correct output
+Vladislav Captari,12088362,3.5,Spaces between each letter
+Vraj Patel,12088408,5,Correct output
+Yao Horeb Fandoumi,12088381,5,Correct output
+Yasmine Haddi,12088437,5,Correct output
+Zakaria Chaibat,12088426,1.5,Rejects 40 columns and times out
+Zoé Gregory,12088467,5,Correct output
+Zoubida Cheggour,12088473,5,Correct output
+

@@ -1,0 +1,86 @@
+=============================================================================
+PERSONALIZED COMMENTS ADDED TO GRADING
+=============================================================================
+
+I reviewed all 104 student C++ submissions and added personalized comments
+for students who had noteworthy elements in their code. Here are the 10
+students who received special mentions:
+
+=============================================================================
+CREATIVE & HUMOROUS
+=============================================================================
+
+1. Ilas Slimani (12088402) - Grade: 3.5
+   What I found: Interactive grading section asking "Will you give me 100%?"
+   with responses like "Thanks bro" or "WTF, go back to admire this masterpiece"
+   Comment added: "I loved your interactive grading section - very creative,
+   but sadly the logic needs work. Thanks for the laugh though!"
+
+2. Aline-Kim Nguyen (12088417) - Grade: 3.5
+   What I found: 
+   - Welcome message: "Welcome to the best program you will ever encounter"
+   - Comments like "//this is to catch the people who are trying to break my code :("
+   - Apologetic note about making it prettier taking longer than intended
+   Comment added: "I noticed your note about making it prettier and your 
+   creative error messages made me smile!"
+
+=============================================================================
+WELL-DOCUMENTED CODE
+=============================================================================
+
+3. Arnaud Lalonde (12088491) - Grade: 5
+   What I found: Comprehensive header with assignment details, task description
+   Comment added: "Thorough documentation in your header comments - well organized!"
+
+4. Asser Alayed (12088357) - Grade: 5
+   What I found: Professional header with date, name, professor, course
+   Comment added: "Professional header with date, name, and course info - nicely done!"
+
+5. Breanna D'Ettorre (12088358) - Grade: 5
+   What I found: Clean header with author name and date
+   Comment added: "Good documentation with author name and date!"
+
+6. Folake Agard (12088451) - Grade: 5
+   What I found: Header with author and date
+   Comment added: "Nice header with author and date info!"
+
+=============================================================================
+PERSONAL TOUCHES
+=============================================================================
+
+7. Mathis Nkombou-kamdoum (12088429) - Grade: 3.5
+   What I found: "Made by Mathis Nkombou-Kamdoum" signature at program start
+   Comment added: "I appreciated the signature at the start!"
+
+8. Elijah Sabado (12088486) - Grade: 5
+   What I found: Comments like "Let's get this started" and "For the MIAE 215 
+   course with Ted"
+   Comment added: "Let's get this started - nice enthusiasm in your code comments!"
+
+=============================================================================
+SPECIAL CASES
+=============================================================================
+
+9. Constantina Moraitis (12088363) - Grade: 3.5
+   What I found: Clean code structure with proper header
+   Comment added: "Clean code structure with proper header - just watch that 
+   last row logic!"
+
+10. Dilraba Tursun (12088359) - Grade: 1.5
+    What I found: Submitted a functional unit converter instead of the 
+    assignment
+    Comment added: "While your unit converter is functional, please 
+    double-check assignment requirements before submission."
+
+=============================================================================
+NOTES
+=============================================================================
+
+- All comments are professional yet friendly
+- Comments acknowledge the student's effort and creativity
+- Even students with lower grades received encouraging feedback
+- The personalized touch helps students feel their work was actually reviewed
+- Comments maintain professionalism while showing appreciation for effort
+
+=============================================================================
+
