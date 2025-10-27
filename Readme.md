@@ -173,3 +173,5 @@ for Handin Assignment 1 and Handin Assignment 2 (both out of 5 ).
 
 
 Please let me know if you have any question
+
+ID	Name	Last Name	Handin Assigment 1   /5	Handin Assignment 2   /5	Arduino    /7	Midterm   	Final	PERCENTAGE	LETTER
