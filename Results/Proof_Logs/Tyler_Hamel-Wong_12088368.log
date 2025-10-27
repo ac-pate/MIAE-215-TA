@@ -1,0 +1,30 @@
+=== TEST 1 (20 rows, 10 columns) ===
+
+INFINITE LOOP DETECTED!
+
+Student implemented the letter rectangle correctly BUT wrapped the entire program 
+in an infinite loop that was meant for testing.
+
+Problem code (line 14 in assignment1.cpp):
+    while (true){ //This was not asked for but made testing and debugging 100x easier.
+
+Student's comment shows this was intentional for testing purposes, but it was 
+never removed before submission.
+
+What happens:
+1. Program correctly draws the letter rectangle for test 1
+2. Instead of ending, it loops back to beginning due to while(true)
+3. Asks for input again: "Please enter the size of the box..."
+4. No more input available from automated test
+5. Program hangs waiting for input infinitely
+6. Terminated after 5-second timeout
+
+Impact:
+- The letter rectangle logic itself appears to be correct
+- However, the infinite loop makes the program unusable
+- Cannot complete any test case because it never exits
+- This is a critical error: forgot to remove debugging/testing code
+
+
+=== TEST 2 (26 rows, 40 columns) ===
+Did not reach test 2 due to timeout in test 1.

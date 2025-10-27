@@ -1,0 +1,69 @@
+=== TEST 1 (20 rows, 10 columns) ===
+
+Please, insert a number of rows and press ENTER: 
+Please, insert a number of lines and press ENTER: abcdefghijklmnopqrst
+b                  b
+c                  c
+d                  d
+e                  e
+f                  f
+g                  g
+h                  h
+i                  i
+abcdefghijklmnopqrst
+
+I am expecting 100% for this beautiful work btw 
+
+Will you give me 100%? Answer by 1 (Yes) or (2) No : 
+
+You aint fooling nobody, go back to admire this masterpiece 
+
+=== TEST 2 (26 rows, 40 columns) ===
+
+Please, insert a number of rows and press ENTER: 
+Please, insert a number of lines and press ENTER: abcdefghijklmnopqrstuvwxyz
+b                        b
+c                        c
+d                        d
+e                        e
+f                        f
+g                        g
+h                        h
+i                        i
+j                        j
+k                        k
+l                        l
+m                        m
+n                        n
+o                        o
+p                        p
+q                        q
+r                        r
+s                        s
+t                        t
+u                        u
+v                        v
+w                        w
+x                        x
+y                        y
+z                        z
+{                        {
+|                        |
+}                        }
+~                        ~
+                        
+Ä                        Ä
+Å                        Å
+Ç                        Ç
+É                        É
+Ñ                        Ñ
+Ö                        Ö
+Ü                        Ü
+á                        á
+abcdefghijklmnopqrstuvwxyz
+
+I am expecting 100% for this beautiful work btw 
+
+Will you give me 100%? Answer by 1 (Yes) or (2) No : 
+
+You aint fooling nobody, go back to admire this masterpiece 

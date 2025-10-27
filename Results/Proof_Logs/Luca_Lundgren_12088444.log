@@ -1,0 +1,55 @@
+=== TEST 1 (20 rows, 10 columns) ===
+Enter the size of a box in terms of the number of rows and number of columns: 
+aaaaaaaaaa
+b        b
+c        c
+d        d
+e        e
+f        f
+g        g
+h        h
+i        i
+j        j
+k        k
+l        l
+m        m
+n        n
+o        o
+p        p
+q        q
+r        r
+s        s
+t        t
+u        u
+vvvvvvvvvv
+
+=== TEST 2 (26 rows, 40 columns) ===
+Enter the size of a box in terms of the number of rows and number of columns: 
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+b                                      b
+c                                      c
+d                                      d
+e                                      e
+f                                      f
+g                                      g
+h                                      h
+i                                      i
+j                                      j
+k                                      k
+l                                      l
+m                                      m
+n                                      n
+o                                      o
+p                                      p
+q                                      q
+r                                      r
+s                                      s
+t                                      t
+u                                      u
+v                                      v
+w                                      w
+x                                      x
+y                                      y
+z                                      z
+a                                      a
+````````````````````````````````````````

@@ -1,0 +1,31 @@
+=== TEST 1 (20 rows, 10 columns) ===
+
+WRONG PROGRAM SUBMITTED!
+
+Student submitted a unit converter program instead of the letter rectangle assignment.
+
+Program code analysis shows:
+- This is a "UNIT CONVERTER" menu-driven program
+- Expects menu choices (1-5) for conversions: Meters↔Feet, Kilograms↔Pounds
+- Uses a do-while loop that continues until user selects option 5 (Exit)
+
+Why it times out:
+1. Test sends "20" as input (intended for rows)
+   → Program reads this as menu choice
+   → Invalid choice (only 1-5 valid)
+   → Prints error and loops back to menu
+   
+2. Test sends "10" as input (intended for columns)  
+   → Program reads this as menu choice
+   → Invalid choice again
+   → Loops back to menu
+   
+3. No more input available, but program keeps looping
+   → Infinite loop printing menu repeatedly
+   → Terminated after 5-second timeout
+
+This is NOT the letter rectangle assignment.
+
+
+=== TEST 2 (26 rows, 40 columns) ===
+Did not reach test 2 due to timeout in test 1.

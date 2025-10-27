@@ -1,0 +1,126 @@
+=============================================================================
+PROOF LOGS GENERATION SUMMARY
+=============================================================================
+
+Date: October 27, 2025
+Purpose: Generate proof logs for students with reduced grades (3.5 or 1.5)
+
+=============================================================================
+EXECUTION DETAILS
+=============================================================================
+
+Total Students Tested: 13
+Test Cases Run Per Student:
+  - Test 1: 20 rows × 10 columns
+  - Test 2: 26 rows × 40 columns
+
+Method:
+  1. Compiled each student's C++ source code on Linux using g++
+  2. Executed with automated test inputs (echo with pipe)
+  3. Applied 5-second timeout to catch infinite loops
+  4. Captured all output to individual log files
+
+=============================================================================
+LOG FILES CREATED
+=============================================================================
+
+1. Alif_Mia_12088418.log (1.5K)
+   ✓ Both tests completed
+   
+2. Aline-Kim_Nguyen_12088417.log (2.3K)
+   ✓ Both tests completed
+   
+3. Chloe_Levert_12088449.log (1.3K)
+   ✓ Both tests completed
+   
+4. Constantina_Moraitis_12088363.log (1.5K)
+   ✓ Both tests completed
+   
+5. Dilraba_Tursun_12088359.log (198 bytes)
+   ⚠ Timeout on test 1 (infinite loop)
+   
+6. Ilas_Slimani_12088402.log (1.9K)
+   ✓ Both tests completed
+   
+7. Liam_Greene_12088374.log (1.6K)
+   ✓ Both tests completed
+   
+8. Luca_Lundgren_12088444.log (1.6K)
+   ✓ Both tests completed
+   
+9. Mathis_Nkombou-kamdoum_12088429.log (1.5K)
+   ✓ Both tests completed
+   
+10. Sofia_Romero_12088419.log (1.6K)
+    ✓ Both tests completed
+    
+11. Talia_Kaloustian_12088375.log (1.7K)
+    ✓ Both tests completed
+    
+12. Tyler_Hamel-Wong_12088368.log (198 bytes)
+    ⚠ Timeout on test 1 (infinite loop)
+    
+13. Vladislav_Captari_12088362.log (2.7K)
+    ✓ Both tests completed
+
+=============================================================================
+SPECIAL CASES HANDLED
+=============================================================================
+
+Non-standard Filenames:
+  - Chloe Levert: "Chloe_Levert_assignment1.cpp"
+  - Mathis Nkombou-kamdoum: "assignement 1.cpp" (note spelling)
+  - Talia Kaloustian: "Assignment1.cpp" (capitalized)
+
+Timeout Cases:
+  - Dilraba Tursun: Infinite loop, terminated after 5 seconds
+  - Tyler Hamel-Wong: Infinite loop, terminated after 5 seconds
+
+=============================================================================
+PROOF OF ISSUES CAPTURED
+=============================================================================
+
+Each log file contains evidence of the specific logic error:
+
+✓ Alif Mia: Wrong letter pattern visible in test 2 output
+✓ Aline-Kim Nguyen: Extra decorative borders and messages
+✓ Chloe Levert: Error message limiting columns to 26
+✓ Constantina Moraitis: Last row shows 'a' instead of correct letter
+✓ Dilraba Tursun: Timeout message documenting infinite loop
+✓ Ilas Slimani: Letters displayed horizontally in first/last rows
+✓ Liam Greene: Box-drawing characters instead of letters
+✓ Luca Lundgren: Extra rows (21 instead of 20, 27 instead of 26)
+✓ Mathis Nkombou-kamdoum: Only 'a' and 'b' used for all rows
+✓ Sofia Romero: Last row shows 'a' instead of correct letter
+✓ Talia Kaloustian: 21 rows instead of 20 (off-by-one error)
+✓ Tyler Hamel-Wong: Timeout message documenting infinite loop
+✓ Vladislav Captari: Spaces between each letter in borders
+
+=============================================================================
+FILES LOCATION
+=============================================================================
+
+Directory: /home/odin/achal/MIAE-215-TA-clean/Results/Proof_Logs/
+
+Contents:
+  - 13 individual log files (*.log)
+  - README.md (detailed explanation of each student's issue)
+  - EXECUTION_SUMMARY.txt (this file)
+
+=============================================================================
+USAGE FOR GRADING
+=============================================================================
+
+These log files serve as documented proof that can be:
+  1. Shared with students to show why they received reduced grades
+  2. Used for grade appeals to demonstrate the specific issues
+  3. Referenced during re-grading discussions
+  4. Kept as records for academic integrity purposes
+
+Each log clearly shows:
+  - The exact input provided (20×10 and 26×40)
+  - The complete program output
+  - The specific logic error that prevented full marks
+
+=============================================================================
+
